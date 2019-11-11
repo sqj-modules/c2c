@@ -2,7 +2,6 @@
     "name": "sqj-modules/c2c",
     "description": "C2C模块",
     "license": "MIT",
-    "type": "composer-plugin",
     "authors": [
         {
             "name": "sunqingjiang",
